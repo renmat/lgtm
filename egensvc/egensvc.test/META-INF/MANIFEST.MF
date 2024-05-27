@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: egensvc.test
+Bundle-Vendor: egensvc
+Bundle-SymbolicName: egensvc.test
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: egensvc.plugin;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Require-Bundle: junit-jupiter-api
+Automatic-Module-Name: egensvc.test

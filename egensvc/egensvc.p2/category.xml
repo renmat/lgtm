@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="egensvc.feature_1.0.0.qualifier.jar" id="egensvc.feature" version="1.0.0.qualifier">
+      <category name="egensvc.category"/>
+   </feature>
+   <feature url="egensvc.feature.source_1.0.0.qualifier.jar" id="egensvc.feature.source" version="1.0.0.qualifier">
+      <category name="egensvc.category"/>
+   </feature>
+   <category-def name="egensvc.category" label="egensvc Category">
+      <description>
+         egensvc Category
+      </description>
+   </category-def>
+</site>
